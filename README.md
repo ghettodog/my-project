@@ -3,6 +3,7 @@ This is line 2
 This is line 3
 This is new DB connection
 <<<<<<< HEAD
+what is this
 locally added DB connection to MYSQL
 =======
 Remotely added DB connection
